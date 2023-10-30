@@ -1,6 +1,6 @@
 # SkyDelivery App - Flutter 
 
-Demo video https://www.youtube.com/watch?v=QlZQ0lc5Ghg&t=3s
+Demo video https://youtu.be/QlZQ0lc5Ghg?si=Q7__4lpzYMa_kmzK
 
 **Packages we are using:**
 
